@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello! I'm a software developer passionate about the frontend world, particularly in React and everything related to JavaScript. I love learning and experimenting with new technologies to improve my skills and knowledge. I'm motivated by the challenge of creating intuitive and attractive user interfaces that provide an excellent user experience.<br><br>I've worked on projects of different sizes and complexities, from small applications to large enterprise systems. I pride myself on being a good communicator and team collaborator, and I'm always willing to learn from my coworkers and contribute in any way I can.<br><br>In my free time, I enjoy continuing to learn and experiment with new technologies, as well as being an avid reader of blogs and books about software development. I also enjoy sports and music in my spare time. I'm always looking for new challenges and opportunities to grow as a developer and as a person.
 
+[MY PORTAFOLIO](https://portafolio-react-sand.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-gonzalez-e) 
